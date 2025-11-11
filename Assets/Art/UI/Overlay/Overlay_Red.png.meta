@@ -1,0 +1,5837 @@
+fileFormatVersion: 2
+guid: ef9eb41076ae19a4b8a215260e84bedd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7618098023646488347
+    second: Overlay_Red_0
+  - first:
+      213: 2423190632872001591
+    second: Overlay_Red_1
+  - first:
+      213: -5839492869704161538
+    second: Overlay_Red_2
+  - first:
+      213: 146756432122331475
+    second: Overlay_Red_3
+  - first:
+      213: -1580879820084025831
+    second: Overlay_Red_4
+  - first:
+      213: 5943228522301035525
+    second: Overlay_Red_5
+  - first:
+      213: 6125180333112543875
+    second: Overlay_Red_6
+  - first:
+      213: 4582540804469649798
+    second: Overlay_Red_7
+  - first:
+      213: -3741852938979702522
+    second: Overlay_Red_8
+  - first:
+      213: -8197675095422322390
+    second: Overlay_Red_9
+  - first:
+      213: -3288560415413460176
+    second: Overlay_Red_10
+  - first:
+      213: 6925145950049196971
+    second: Overlay_Red_11
+  - first:
+      213: 6097075823545896164
+    second: Overlay_Red_12
+  - first:
+      213: 2283416917848286841
+    second: Overlay_Red_13
+  - first:
+      213: 2976624078567476186
+    second: Overlay_Red_14
+  - first:
+      213: -4693985608381867953
+    second: Overlay_Red_15
+  - first:
+      213: -3519706589972663794
+    second: Overlay_Red_16
+  - first:
+      213: 8589636749186205041
+    second: Overlay_Red_17
+  - first:
+      213: -1627306082407978879
+    second: Overlay_Red_18
+  - first:
+      213: 4895509124513759861
+    second: Overlay_Red_19
+  - first:
+      213: -6011181939947575402
+    second: Overlay_Red_20
+  - first:
+      213: -7128756835127394200
+    second: Overlay_Red_21
+  - first:
+      213: -8942123062002830135
+    second: Overlay_Red_22
+  - first:
+      213: 577692963570817802
+    second: Overlay_Red_23
+  - first:
+      213: -9059954032767064064
+    second: Overlay_Red_24
+  - first:
+      213: -8425862913959651808
+    second: Overlay_Red_25
+  - first:
+      213: 8422858062640236025
+    second: Overlay_Red_26
+  - first:
+      213: -2379697245906329818
+    second: Overlay_Red_27
+  - first:
+      213: 8884777834360240733
+    second: Overlay_Red_28
+  - first:
+      213: 8668285951917846220
+    second: Overlay_Red_29
+  - first:
+      213: 239122142060097297
+    second: Overlay_Red_30
+  - first:
+      213: -1726183288204268259
+    second: Overlay_Red_31
+  - first:
+      213: -7773673719961071710
+    second: Overlay_Red_32
+  - first:
+      213: -2936500991321090064
+    second: Overlay_Red_33
+  - first:
+      213: 3295065853178879080
+    second: Overlay_Red_34
+  - first:
+      213: -3389511472482832243
+    second: Overlay_Red_35
+  - first:
+      213: 76285573899216771
+    second: Overlay_Red_36
+  - first:
+      213: 7920352483921336405
+    second: Overlay_Red_37
+  - first:
+      213: -449438668457710409
+    second: Overlay_Red_38
+  - first:
+      213: -487320179853685194
+    second: Overlay_Red_39
+  - first:
+      213: -1053484482267271396
+    second: Overlay_Red_40
+  - first:
+      213: -3990183239080973397
+    second: Overlay_Red_41
+  - first:
+      213: 2587842527471320620
+    second: Overlay_Red_42
+  - first:
+      213: 3000140566837917712
+    second: Overlay_Red_43
+  - first:
+      213: -5388312381346713874
+    second: Overlay_Red_44
+  - first:
+      213: -6607161350220820164
+    second: Overlay_Red_45
+  - first:
+      213: 7911707040056697739
+    second: Overlay_Red_46
+  - first:
+      213: -6413110561487132799
+    second: Overlay_Red_47
+  - first:
+      213: 1194971469322350960
+    second: Overlay_Red_48
+  - first:
+      213: -4102624584023036338
+    second: Overlay_Red_49
+  - first:
+      213: -803948190614848188
+    second: Overlay_Red_50
+  - first:
+      213: 7466304585263770432
+    second: Overlay_Red_51
+  - first:
+      213: 723207403156526034
+    second: Overlay_Red_52
+  - first:
+      213: -1107695563333721963
+    second: Overlay_Red_53
+  - first:
+      213: -4912292223924350352
+    second: Overlay_Red_54
+  - first:
+      213: -8278952170669477925
+    second: Overlay_Red_55
+  - first:
+      213: -1634282785568453942
+    second: Overlay_Red_56
+  - first:
+      213: -2934468423253535151
+    second: Overlay_Red_57
+  - first:
+      213: 1712607250774909425
+    second: Overlay_Red_58
+  - first:
+      213: 8707758829393396646
+    second: Overlay_Red_59
+  - first:
+      213: 7488238620775371635
+    second: Overlay_Red_60
+  - first:
+      213: 5785399800008198196
+    second: Overlay_Red_61
+  - first:
+      213: -8803807972547849253
+    second: Overlay_Red_62
+  - first:
+      213: 1972104302746644890
+    second: Overlay_Red_63
+  - first:
+      213: 8357277389991786370
+    second: Overlay_Red_64
+  - first:
+      213: 3713056895820989119
+    second: Overlay_Red_65
+  - first:
+      213: -3440657770562181686
+    second: Overlay_Red_66
+  - first:
+      213: -2244242216493077835
+    second: Overlay_Red_67
+  - first:
+      213: 3968254337836748158
+    second: Overlay_Red_68
+  - first:
+      213: -2112478273574888027
+    second: Overlay_Red_69
+  - first:
+      213: -3398949696139458224
+    second: Overlay_Red_70
+  - first:
+      213: 5369792178538954520
+    second: Overlay_Red_71
+  - first:
+      213: 6581896171398411876
+    second: Overlay_Red_72
+  - first:
+      213: -1298325685105803120
+    second: Overlay_Red_73
+  - first:
+      213: -8309876623446719014
+    second: Overlay_Red_74
+  - first:
+      213: -3805167943403035485
+    second: Overlay_Red_75
+  - first:
+      213: -2776073465058319836
+    second: Overlay_Red_76
+  - first:
+      213: -1991357880542261889
+    second: Overlay_Red_77
+  - first:
+      213: 2145355537575579020
+    second: Overlay_Red_78
+  - first:
+      213: -6384944131558150257
+    second: Overlay_Red_79
+  - first:
+      213: -7874360056926539718
+    second: Overlay_Red_80
+  - first:
+      213: 1896156660674986529
+    second: Overlay_Red_81
+  - first:
+      213: -822006037689169049
+    second: Overlay_Red_82
+  - first:
+      213: 5074260847644436224
+    second: Overlay_Red_83
+  - first:
+      213: 4610196087352421120
+    second: Overlay_Red_84
+  - first:
+      213: 6232621580082280697
+    second: Overlay_Red_85
+  - first:
+      213: -6694189400537265553
+    second: Overlay_Red_86
+  - first:
+      213: -2774728764850781193
+    second: Overlay_Red_87
+  - first:
+      213: -2332846295125379846
+    second: Overlay_Red_88
+  - first:
+      213: -6696539631118915752
+    second: Overlay_Red_89
+  - first:
+      213: 5247455324748182418
+    second: Overlay_Red_90
+  - first:
+      213: 7003282416279597820
+    second: Overlay_Red_91
+  - first:
+      213: -5820928056660846228
+    second: Overlay_Red_92
+  - first:
+      213: 2862481815480179191
+    second: Overlay_Red_93
+  - first:
+      213: 6977814518041565914
+    second: Overlay_Red_94
+  - first:
+      213: -96519709444613840
+    second: Overlay_Red_95
+  - first:
+      213: 4724938443901702905
+    second: Overlay_Red_96
+  - first:
+      213: 1847873577306134241
+    second: Overlay_Red_97
+  - first:
+      213: 2369984010993094822
+    second: Overlay_Red_98
+  - first:
+      213: 3042456426863948417
+    second: Overlay_Red_99
+  - first:
+      213: 6309660093192176635
+    second: Overlay_Red_100
+  - first:
+      213: -7720496999165650146
+    second: Overlay_Red_101
+  - first:
+      213: -7213319701188593807
+    second: Overlay_Red_102
+  - first:
+      213: 546446561730361917
+    second: Overlay_Red_103
+  - first:
+      213: -172577229270682121
+    second: Overlay_Red_104
+  - first:
+      213: 5381807558510143273
+    second: Overlay_Red_105
+  - first:
+      213: 240902948058529358
+    second: Overlay_Red_106
+  - first:
+      213: 1010995939537546648
+    second: Overlay_Red_107
+  - first:
+      213: -698018234960485033
+    second: Overlay_Red_108
+  - first:
+      213: 5267912284322593015
+    second: Overlay_Red_109
+  - first:
+      213: 2260363642539480904
+    second: Overlay_Red_110
+  - first:
+      213: 735523208744887330
+    second: Overlay_Red_111
+  - first:
+      213: 3151345021956181996
+    second: Overlay_Red_112
+  - first:
+      213: -4772575967308468575
+    second: Overlay_Red_113
+  - first:
+      213: 3207051847959566412
+    second: Overlay_Red_114
+  - first:
+      213: 4690908244576829525
+    second: Overlay_Red_115
+  - first:
+      213: 778627197840918971
+    second: Overlay_Red_116
+  - first:
+      213: -753977395047412340
+    second: Overlay_Red_117
+  - first:
+      213: 3407523770311592092
+    second: Overlay_Red_118
+  - first:
+      213: 6762225190987694707
+    second: Overlay_Red_119
+  - first:
+      213: -5914184085645689049
+    second: Overlay_Red_120
+  - first:
+      213: 6401524276995275920
+    second: Overlay_Red_121
+  - first:
+      213: 1178370582989346063
+    second: Overlay_Red_122
+  - first:
+      213: 2656233867369812047
+    second: Overlay_Red_123
+  - first:
+      213: 4177707222255816676
+    second: Overlay_Red_124
+  - first:
+      213: -8586309337811482728
+    second: Overlay_Red_125
+  - first:
+      213: -7354978079411458976
+    second: Overlay_Red_126
+  - first:
+      213: -2474801938512550841
+    second: Overlay_Red_127
+  - first:
+      213: -6903780376962027646
+    second: Overlay_Red_128
+  - first:
+      213: -6625721674283929475
+    second: Overlay_Red_129
+  - first:
+      213: 5448300722313243802
+    second: Overlay_Red_130
+  - first:
+      213: -8881188304686088260
+    second: Overlay_Red_131
+  - first:
+      213: -1809251946962925835
+    second: Overlay_Red_132
+  - first:
+      213: -7589795341517791880
+    second: Overlay_Red_133
+  - first:
+      213: -4707047813361750008
+    second: Overlay_Red_134
+  - first:
+      213: -2342112315835994165
+    second: Overlay_Red_135
+  - first:
+      213: -2642422455666649641
+    second: Overlay_Red_136
+  - first:
+      213: -7756513991752313822
+    second: Overlay_Red_137
+  - first:
+      213: 2506464931621270543
+    second: Overlay_Red_138
+  - first:
+      213: 1554824767528138751
+    second: Overlay_Red_139
+  - first:
+      213: 5852869727080151786
+    second: Overlay_Red_140
+  - first:
+      213: 8684858383619017072
+    second: Overlay_Red_141
+  - first:
+      213: 5581058609328610503
+    second: Overlay_Red_142
+  - first:
+      213: 8040868754426673190
+    second: Overlay_Red_143
+  - first:
+      213: 7856728720144767135
+    second: Overlay_Red_144
+  - first:
+      213: -5922113610321470901
+    second: Overlay_Red_145
+  - first:
+      213: 4187915766269945691
+    second: Overlay_Red_146
+  - first:
+      213: -2448624873083418943
+    second: Overlay_Red_147
+  - first:
+      213: 6742941526521751932
+    second: Overlay_Red_148
+  - first:
+      213: 5701219163969454654
+    second: Overlay_Red_149
+  - first:
+      213: -4971975097506126131
+    second: Overlay_Red_150
+  - first:
+      213: -726198399351923065
+    second: Overlay_Red_151
+  - first:
+      213: 4188858637293553590
+    second: Overlay_Red_152
+  - first:
+      213: -3122497689906663503
+    second: Overlay_Red_153
+  - first:
+      213: -336230347889205265
+    second: Overlay_Red_154
+  - first:
+      213: 1999954530542521039
+    second: Overlay_Red_155
+  - first:
+      213: -401644205003915108
+    second: Overlay_Red_156
+  - first:
+      213: -1272372533931945002
+    second: Overlay_Red_157
+  - first:
+      213: 195809874846210859
+    second: Overlay_Red_158
+  - first:
+      213: -6784249128408464338
+    second: Overlay_Red_159
+  - first:
+      213: -622321707269194208
+    second: Overlay_Red_160
+  - first:
+      213: -6229210756309748199
+    second: Overlay_Red_161
+  - first:
+      213: 8349610670061888154
+    second: Overlay_Red_162
+  - first:
+      213: -3771196267159061283
+    second: Overlay_Red_163
+  - first:
+      213: -5444043326774961748
+    second: Overlay_Red_164
+  - first:
+      213: -1637152935761113900
+    second: Overlay_Red_165
+  - first:
+      213: -4051530059416159400
+    second: Overlay_Red_166
+  - first:
+      213: -7699014748639768727
+    second: Overlay_Red_167
+  - first:
+      213: 5157114152728325034
+    second: Overlay_Red_168
+  - first:
+      213: -4019996647749289912
+    second: Overlay_Red_169
+  - first:
+      213: -3377139653678086613
+    second: Overlay_Red_170
+  - first:
+      213: -3145338385281651531
+    second: Overlay_Red_171
+  - first:
+      213: 5152862366078270786
+    second: Overlay_Red_172
+  - first:
+      213: 6665795860249916047
+    second: Overlay_Red_173
+  - first:
+      213: -164807762913880251
+    second: Overlay_Red_174
+  - first:
+      213: -1955502166513499031
+    second: Overlay_Red_175
+  - first:
+      213: 399980784867664358
+    second: Overlay_Red_176
+  - first:
+      213: -1860434649280236957
+    second: Overlay_Red_177
+  - first:
+      213: 8499454198351993832
+    second: Overlay_Red_178
+  - first:
+      213: -6473335888024489584
+    second: Overlay_Red_179
+  - first:
+      213: -6426560344244333123
+    second: Overlay_Red_180
+  - first:
+      213: -3623482172747875559
+    second: Overlay_Red_181
+  - first:
+      213: -4338367778175773623
+    second: Overlay_Red_182
+  - first:
+      213: 250064679460088925
+    second: Overlay_Red_183
+  - first:
+      213: -5196166504487196558
+    second: Overlay_Red_184
+  - first:
+      213: 8887262809391369011
+    second: Overlay_Red_185
+  - first:
+      213: -7709694619226396452
+    second: Overlay_Red_186
+  - first:
+      213: -2988931611312670381
+    second: Overlay_Red_187
+  - first:
+      213: -5199104462281835399
+    second: Overlay_Red_188
+  - first:
+      213: -8036502223441363696
+    second: Overlay_Red_189
+  - first:
+      213: 7717946997267011656
+    second: Overlay_Red_190
+  - first:
+      213: 5804041791852701400
+    second: Overlay_Red_191
+  - first:
+      213: 2814350739960253453
+    second: Overlay_Red_192
+  - first:
+      213: -1342133305190309578
+    second: Overlay_Red_193
+  - first:
+      213: -3717014361668324354
+    second: Overlay_Red_194
+  - first:
+      213: -2871457263405861659
+    second: Overlay_Red_195
+  - first:
+      213: -5822310630795306211
+    second: Overlay_Red_196
+  - first:
+      213: 2277064964967525427
+    second: Overlay_Red_197
+  - first:
+      213: 5170929454501792305
+    second: Overlay_Red_198
+  - first:
+      213: 7460521705525556550
+    second: Overlay_Red_199
+  - first:
+      213: 8432174402735080372
+    second: Overlay_Red_200
+  - first:
+      213: 552513405299172874
+    second: Overlay_Red_201
+  - first:
+      213: -2590463849282104732
+    second: Overlay_Red_202
+  - first:
+      213: -4775721137787681103
+    second: Overlay_Red_203
+  - first:
+      213: -2238110640017155912
+    second: Overlay_Red_204
+  - first:
+      213: 2077889241692096145
+    second: Overlay_Red_205
+  - first:
+      213: -7318605448108772492
+    second: Overlay_Red_206
+  - first:
+      213: 7735393427009978557
+    second: Overlay_Red_207
+  - first:
+      213: 3740269363440400425
+    second: Overlay_Red_208
+  - first:
+      213: -7539844016725232734
+    second: Overlay_Red_209
+  - first:
+      213: -4535127985127662814
+    second: Overlay_Red_210
+  - first:
+      213: -4821760423659461529
+    second: Overlay_Red_211
+  - first:
+      213: -7434535764180240608
+    second: Overlay_Red_212
+  - first:
+      213: -6726948140605916689
+    second: Overlay_Red_213
+  - first:
+      213: -2148154114264476516
+    second: Overlay_Red_214
+  - first:
+      213: -4922892862055241900
+    second: Overlay_Red_215
+  - first:
+      213: 6430657166588011877
+    second: Overlay_Red_216
+  - first:
+      213: 4988152686865088188
+    second: Overlay_Red_217
+  - first:
+      213: -1288169154699264019
+    second: Overlay_Red_218
+  - first:
+      213: 6167153949201285516
+    second: Overlay_Red_219
+  - first:
+      213: 8101499319118224786
+    second: Overlay_Red_220
+  - first:
+      213: -4028703705972958886
+    second: Overlay_Red_221
+  - first:
+      213: -1090967015681584803
+    second: Overlay_Red_222
+  - first:
+      213: 1020999429965617881
+    second: Overlay_Red_223
+  - first:
+      213: -7183184156892750649
+    second: Overlay_Red_224
+  - first:
+      213: -7359501635728846131
+    second: Overlay_Red_225
+  - first:
+      213: -3951976420893937929
+    second: Overlay_Red_226
+  - first:
+      213: 3556294378852536017
+    second: Overlay_Red_227
+  - first:
+      213: 3495847142299772641
+    second: Overlay_Red_228
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overlay_Red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 1920
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ed834acbe8b960800000000000000
+      internalID: 7618098023646488347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 610
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c36fba07e0a120800000000000000
+      internalID: 2423190632872001591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef66bd88c24f5fea0800000000000000
+      internalID: -5839492869704161538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c72d8232690200800000000000000
+      internalID: 146756432122331475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 615
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ee43fd269f0ae0800000000000000
+      internalID: -1580879820084025831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50419ba3ad69a7250800000000000000
+      internalID: 5943228522301035525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 622
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ac1647f03010550800000000000000
+      internalID: 6125180333112543875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68175231594789f30800000000000000
+      internalID: 4582540804469649798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6090d52c394421cc0800000000000000
+      internalID: -3741852938979702522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2939411fe10c3e80800000000000000
+      internalID: -8197675095422322390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 627
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033aed8c9bfac52d0800000000000000
+      internalID: -3288560415413460176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babda62fc8f0b1060800000000000000
+      internalID: 6925145950049196971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4317682a2d9450800000000000000
+      internalID: 6097075823545896164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976e676b69350bf10800000000000000
+      internalID: 2283416917848286841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb83e024d71f4920800000000000000
+      internalID: 2976624078567476186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f485a9f75fc9bdeb0800000000000000
+      internalID: -4693985608381867953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02f31f218d772fc0800000000000000
+      internalID: -3519706589972663794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17582e01d15843770800000000000000
+      internalID: 8589636749186205041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1886d396db5aa69e0800000000000000
+      internalID: -1627306082407978879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57283597c9750f340800000000000000
+      internalID: 4895509124513759861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6976e2dcfddf39ca0800000000000000
+      internalID: -6011181939947575402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8600810ad61911d90800000000000000
+      internalID: -7128756835127394200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43e77d37237e380800000000000000
+      internalID: -8942123062002830135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b91ea80b0640800800000000000000
+      internalID: 577692963570817802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082d831fc3944280800000000000000
+      internalID: -9059954032767064064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0261c476252511b80800000000000000
+      internalID: -8425862913959651808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 633
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c43128c004e470800000000000000
+      internalID: 8422858062640236025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f17c886fd99fed0800000000000000
+      internalID: -2379697245906329818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7e45ed521d4b70800000000000000
+      internalID: 8884777834360240733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce629f8520fb4870800000000000000
+      internalID: 8668285951917846220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f2c6f3258815300800000000000000
+      internalID: 239122142060097297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6e51f17d5b08e0800000000000000
+      internalID: -1726183288204268259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4ee930fc5e1490800000000000000
+      internalID: -7773673719961071710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f759b918e37f37d0800000000000000
+      internalID: -2936500991321090064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 633
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1f3a7fec6abd20800000000000000
+      internalID: 3295065853178879080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80bc80364906f0d0800000000000000
+      internalID: -3389511472482832243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387efb543550f0100800000000000000
+      internalID: 76285573899216771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558930cce9ebaed60800000000000000
+      internalID: 7920352483921336405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 615
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce04a89e543c9f0800000000000000
+      internalID: -449438668457710409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e01fbd0e0bc39f0800000000000000
+      internalID: -487320179853685194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa21ae1754161f0800000000000000
+      internalID: -1053484482267271396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6cd52c7500a8c0800000000000000
+      internalID: -3990183239080973397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb398511dd9e320800000000000000
+      internalID: 2587842527471320620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 615
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018fc9a33f3a2a920800000000000000
+      internalID: 3000140566837917712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 633
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee6dfa007ed835b0800000000000000
+      internalID: -5388312381346713874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d56a12c5ae44a0800000000000000
+      internalID: -6607161350220820164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 607
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83698982a70ccd60800000000000000
+      internalID: 7911707040056697739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e0452ced0007a0800000000000000
+      internalID: -6413110561487132799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 612
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0717fa95834659010800000000000000
+      internalID: 1194971469322350960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 617
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea58e6dac8017c0800000000000000
+      internalID: -4102624584023036338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d7590516dc7d4f0800000000000000
+      internalID: -803948190614848188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b648d4674ad9760800000000000000
+      internalID: 7466304585263770432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d31c2d49590a00800000000000000
+      internalID: 723207403156526034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a73401cca0a0f0800000000000000
+      internalID: -1107695563333721963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725310bf3804dbb0800000000000000
+      internalID: -4912292223924350352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 603
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfebc25dd04b1d80800000000000000
+      internalID: -8278952170669477925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca08af177cd159e0800000000000000
+      internalID: -1634282785568453942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565f5b348ca647d0800000000000000
+      internalID: -2934468423253535151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f16236883764c710800000000000000
+      internalID: 1712607250774909425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c3c7058c28d870800000000000000
+      internalID: 8707758829393396646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735da8e9519be760800000000000000
+      internalID: 7488238620775371635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438ca1b377ed94050800000000000000
+      internalID: 5785399800008198196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd398852b4792d580800000000000000
+      internalID: -8803807972547849253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91bb392a625e5b10800000000000000
+      internalID: 1972104302746644890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2873dd7e1830bf370800000000000000
+      internalID: 8357277389991786370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2893af29d678330800000000000000
+      internalID: 3713056895820989119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac524ffacf35040d0800000000000000
+      internalID: -3440657770562181686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baaef73899dad0e0800000000000000
+      internalID: -2244242216493077835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d8929ab42121730800000000000000
+      internalID: 3968254337836748158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 604
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad96dbd338fea2e0800000000000000
+      internalID: -2112478273574888027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0598f20824184d0d0800000000000000
+      internalID: -3398949696139458224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 604
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3c773985558a40800000000000000
+      internalID: 5369792178538954520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b4bc02b7975b50800000000000000
+      internalID: 6581896171398411876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 604
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c0801bab6bfde0800000000000000
+      internalID: -1298325685105803120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_74
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 599
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c2241d336dac80800000000000000
+      internalID: -8309876623446719014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 595
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a422c68ae3513bc0800000000000000
+      internalID: -3805167943403035485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 604
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422afcc44e76979d0800000000000000
+      internalID: -2776073465058319836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 580
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8a9dee864d54e0800000000000000
+      internalID: -1991357880542261889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d0c1eae75d5cd10800000000000000
+      internalID: 2145355537575579020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 592
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe2c7242f1467a0800000000000000
+      internalID: -6384944131558150257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307e559f37a8b290800000000000000
+      internalID: -7874360056926539718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220606cf60805a10800000000000000
+      internalID: 1896156660674986529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8f482dd5a794f0800000000000000
+      internalID: -822006037689169049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007e4893b556b6640800000000000000
+      internalID: 5074260847644436224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b69836ae4baff30800000000000000
+      internalID: 4610196087352421120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8fc342e48be7650800000000000000
+      internalID: 6232621580082280697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a8ac125367913a0800000000000000
+      internalID: -6694189400537265553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c207b3ee2e79d0800000000000000
+      internalID: -2774728764850781193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4377f87a010afd0800000000000000
+      internalID: -2332846295125379846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e4de6fac1113a0800000000000000
+      internalID: -6696539631118915752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f85ec0d4b2d840800000000000000
+      internalID: 5247455324748182418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_91
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b51ca048a03160800000000000000
+      internalID: 7003282416279597820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6910a7e5c8e73fa0800000000000000
+      internalID: -5820928056660846228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f916bb8b0499b720800000000000000
+      internalID: 2862481815480179191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada5e68855d26d060800000000000000
+      internalID: 6977814518041565914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039dabce5d719aef0800000000000000
+      internalID: -96519709444613840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2195e1b7a529140800000000000000
+      internalID: 4724938443901702905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_97
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e699256a37f4a910800000000000000
+      internalID: 1847873577306134241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_98
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0599ab6efd3e020800000000000000
+      internalID: 2369984010993094822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_99
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18274d7200af83a20800000000000000
+      internalID: 3042456426863948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_100
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 585
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38d2cbc6a609750800000000000000
+      internalID: 6309660093192176635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 592
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b134b52e84bd490800000000000000
+      internalID: -7720496999165650146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 587
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b35713f325eb90800000000000000
+      internalID: -7213319701188593807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 592
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afba0b04e559700800000000000000
+      internalID: 546446561730361917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 569
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5fff0ace1ea9df0800000000000000
+      internalID: -172577229270682121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927628ed57500ba40800000000000000
+      internalID: 5381807558510143273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e7f5474fbd75300800000000000000
+      internalID: 240902948058529358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6f755377c70e00800000000000000
+      internalID: 1010995939537546648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556f621d142056f0800000000000000
+      internalID: -698018234960485033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f6fedf426b1940800000000000000
+      internalID: 5267912284322593015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_110
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84716c8c1cc6e5f10800000000000000
+      internalID: 2260363642539480904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_111
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2246b4d167a153a00800000000000000
+      internalID: 735523208744887330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_112
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc466d993dbbb20800000000000000
+      internalID: 3151345021956181996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_113
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae2305a17764cdb0800000000000000
+      internalID: -4772575967308468575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d3edf9acb18c20800000000000000
+      internalID: 3207051847959566412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55004f7e134791140800000000000000
+      internalID: 4690908244576829525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb904c3af4d3eca00800000000000000
+      internalID: 778627197840918971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d468fcd855985f0800000000000000
+      internalID: -753977395047412340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c984f15b0d4f94f20800000000000000
+      internalID: 3407523770311592092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_119
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720500cbff38dd50800000000000000
+      internalID: 6762225190987694707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_120
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff1d6a8e89ceda0800000000000000
+      internalID: -5914184085645689049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb757c968c6d850800000000000000
+      internalID: 6401524276995275920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0599dc4dc96a5010800000000000000
+      internalID: 1178370582989346063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4090f801a6dcd420800000000000000
+      internalID: 2656233867369812047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_124
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef442e85923af930800000000000000
+      internalID: 4177707222255816676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_125
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978024462d47d880800000000000000
+      internalID: -8586309337811482728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_126
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c25e5b76edde990800000000000000
+      internalID: -7354978079411458976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e28dbfbcb7add0800000000000000
+      internalID: -2474801938512550841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_128
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28faddf2358d030a0800000000000000
+      internalID: -6903780376962027646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_129
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7033b7ed35bc04a0800000000000000
+      internalID: -6625721674283929475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_130
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 569
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2cfef3a04c9b40800000000000000
+      internalID: 5448300722313243802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_131
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff4db9a4eafb480800000000000000
+      internalID: -8881188304686088260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64718a0fe34e6e0800000000000000
+      internalID: -1809251946962925835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 567
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ddaee6951aba690800000000000000
+      internalID: -7589795341517791880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_134
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8003bc7e3f43daeb0800000000000000
+      internalID: -4707047813361750008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf278ef1452f7fd0800000000000000
+      internalID: -2342112315835994165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55977d6ca345bd0800000000000000
+      internalID: -2642422455666649641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_137
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224914ace935b5490800000000000000
+      internalID: -7756513991752313822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0472435390c8c220800000000000000
+      internalID: 2506464931621270543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff77e7463e8d39510800000000000000
+      internalID: 1554824767528138751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaff37c102993150800000000000000
+      internalID: 5852869727080151786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_141
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 577
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0794f208fa0d68870800000000000000
+      internalID: 8684858383619017072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccdaa74c37e37d40800000000000000
+      internalID: 5581058609328610503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_143
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b321a787e69f60800000000000000
+      internalID: 8040868754426673190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_144
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9896dce425b80d60800000000000000
+      internalID: 7856728720144767135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a58415c0d60dda0800000000000000
+      internalID: -5922113610321470901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5727cd63377e1a30800000000000000
+      internalID: 4187915766269945691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c64dabb6acb40ed0800000000000000
+      internalID: -2448624873083418943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792f8db79db39d50800000000000000
+      internalID: 6742941526521751932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e328c0f8f9cce1f40800000000000000
+      internalID: 5701219163969454654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_150
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc62f01ddfefffab0800000000000000
+      internalID: -4971975097506126131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_151
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78edb2247660ce5f0800000000000000
+      internalID: -726198399351923065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_152
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b78532bcb0d12a30800000000000000
+      internalID: 4188858637293553590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_153
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa22d05e8aaa4d0800000000000000
+      internalID: -3122497689906663503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_154
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef9b5fa748755bf0800000000000000
+      internalID: -336230347889205265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_155
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca8bef9c0441cb10800000000000000
+      internalID: 1999954530542521039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90c5aa39b21d6af0800000000000000
+      internalID: -401644205003915108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d505fbef975ee0800000000000000
+      internalID: -1272372533931945002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_158
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bd8b13b08a7b200800000000000000
+      internalID: 195809874846210859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c579bc5189d1a0800000000000000
+      internalID: -6784249128408464338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_160
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e743654b11d57f0800000000000000
+      internalID: -622321707269194208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_161
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9167d1722d56d89a0800000000000000
+      internalID: -6229210756309748199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a9d19aa6cfd370800000000000000
+      internalID: 8349610670061888154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_163
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc74b5c9f40aabc0800000000000000
+      internalID: -3771196267159061283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_164
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91eb5207fd274b0800000000000000
+      internalID: -5444043326774961748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc88f4341aa749e0800000000000000
+      internalID: -1637152935761113900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_166
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbeab70e216c7c0800000000000000
+      internalID: -4051530059416159400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_167
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f45d290ea972590800000000000000
+      internalID: -7699014748639768727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_168
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe2839fffb19740800000000000000
+      internalID: 5157114152728325034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_169
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84874a4095a1638c0800000000000000
+      internalID: -4019996647749289912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_170
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c1a9b06df121d0800000000000000
+      internalID: -3377139653678086613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_171
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce2ee37638954d0800000000000000
+      internalID: -3145338385281651531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df29a5505a28740800000000000000
+      internalID: 5152862366078270786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_173
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82377b940aa18c50800000000000000
+      internalID: 6665795860249916047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 558
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479a4b763c76bdf0800000000000000
+      internalID: -164807762913880251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_175
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 553
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c477e329acd4e0800000000000000
+      internalID: -1955502166513499031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_176
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 555
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e40797640d8500800000000000000
+      internalID: 399980784867664358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_177
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b2d12b886e26e0800000000000000
+      internalID: -1860434649280236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_178
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb1975bf8024f570800000000000000
+      internalID: 8499454198351993832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_179
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091338a9e471a26a0800000000000000
+      internalID: -6473335888024489584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 546
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db554b19a6540d6a0800000000000000
+      internalID: -6426560344244333123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_181
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bf663792ec6bdc0800000000000000
+      internalID: -3623482172747875559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_182
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94415dccd750bc3c0800000000000000
+      internalID: -4338367778175773623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 546
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c27164088687300800000000000000
+      internalID: 250064679460088925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_184
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278e14a381283e7b0800000000000000
+      internalID: -5196166504487196558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_185
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b005b3076e55b70800000000000000
+      internalID: 8887262809391369011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8254e6799a10590800000000000000
+      internalID: -7709694619226396452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_187
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b5c9198e2586d0800000000000000
+      internalID: -2988931611312670381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_188
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfa8f990219d7b0800000000000000
+      internalID: -5199104462281835399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_189
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df3279ecb987090800000000000000
+      internalID: -8036502223441363696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_190
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848946f07e7ab1b60800000000000000
+      internalID: 7717946997267011656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e6e032491c8050800000000000000
+      internalID: 5804041791852701400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_192
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c40b046159e0720800000000000000
+      internalID: 2814350739960253453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_193
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63129eeaed8cf5de0800000000000000
+      internalID: -1342133305190309578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_194
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3fbb3b1238a6cc0800000000000000
+      internalID: -3717014361668324354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_195
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47af225d88628d0800000000000000
+      internalID: -2871457263405861659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_196
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 537
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b1777445ff23fa0800000000000000
+      internalID: -5822310630795306211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_197
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 543
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c606f6582c99f10800000000000000
+      internalID: 2277064964967525427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_198
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 546
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a0f2e21f4d2c740800000000000000
+      internalID: 5170929454501792305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_199
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64531f0b6f8198760800000000000000
+      internalID: 7460521705525556550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_200
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 524
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b38a2791f9150570800000000000000
+      internalID: 8432174402735080372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_201
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06af78c30ceaa700800000000000000
+      internalID: 552513405299172874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_202
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629c0c9ad2dc0cd0800000000000000
+      internalID: -2590463849282104732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_203
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b647d39dea39bdb0800000000000000
+      internalID: -4775721137787681103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_204
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 523
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b851cd1b32a0f0e0800000000000000
+      internalID: -2238110640017155912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_205
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c9a5914526dc10800000000000000
+      internalID: 2077889241692096145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fc3ede171f6a90800000000000000
+      internalID: -7318605448108772492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_207
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 523
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db042d68653a95b60800000000000000
+      internalID: 7735393427009978557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_208
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92834245b2b18e330800000000000000
+      internalID: 3740269363440400425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_209
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 534
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3fc3980d71d5790800000000000000
+      internalID: -7539844016725232734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_210
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 523
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b588b202dff01c0800000000000000
+      internalID: -4535127985127662814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_211
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764adb3017aa51db0800000000000000
+      internalID: -4821760423659461529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_212
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277912cc1933d890800000000000000
+      internalID: -7434535764180240608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_213
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b5b89e4415a2a0800000000000000
+      internalID: -6726948140605916689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_214
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94d878e6393032e0800000000000000
+      internalID: -2148154114264476516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_215
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 523
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45724e9460f5eabb0800000000000000
+      internalID: -4922892862055241900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_216
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656cc63f984e3950800000000000000
+      internalID: 6430657166588011877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_217
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef00ab07a793540800000000000000
+      internalID: 4988152686865088188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_218
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff8839af08f1ee0800000000000000
+      internalID: -1288169154699264019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_219
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 530
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c814a4187d1269550800000000000000
+      internalID: 6167153949201285516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_220
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d5c1805be4e6070800000000000000
+      internalID: 8101499319118224786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_221
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 531
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599e2c035b2718c0800000000000000
+      internalID: -4028703705972958886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_222
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 518
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5191a8874b1cd0f0800000000000000
+      internalID: -1090967015681584803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_223
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da1af272915b2e00800000000000000
+      internalID: 1020999429965617881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_224
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 514
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc91344114305c90800000000000000
+      internalID: -7183184156892750649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_225
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 518
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2d97e214ccdd990800000000000000
+      internalID: -7359501635728846131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_226
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea5e73262c729c0800000000000000
+      internalID: -3951976420893937929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_227
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 520
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de493045ee7a5130800000000000000
+      internalID: 3556294378852536017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Red_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6a7d1447eb38030800000000000000
+      internalID: 3495847142299772641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overlay_Red_0: 7618098023646488347
+      Overlay_Red_1: 2423190632872001591
+      Overlay_Red_10: -3288560415413460176
+      Overlay_Red_100: 6309660093192176635
+      Overlay_Red_101: -7720496999165650146
+      Overlay_Red_102: -7213319701188593807
+      Overlay_Red_103: 546446561730361917
+      Overlay_Red_104: -172577229270682121
+      Overlay_Red_105: 5381807558510143273
+      Overlay_Red_106: 240902948058529358
+      Overlay_Red_107: 1010995939537546648
+      Overlay_Red_108: -698018234960485033
+      Overlay_Red_109: 5267912284322593015
+      Overlay_Red_11: 6925145950049196971
+      Overlay_Red_110: 2260363642539480904
+      Overlay_Red_111: 735523208744887330
+      Overlay_Red_112: 3151345021956181996
+      Overlay_Red_113: -4772575967308468575
+      Overlay_Red_114: 3207051847959566412
+      Overlay_Red_115: 4690908244576829525
+      Overlay_Red_116: 778627197840918971
+      Overlay_Red_117: -753977395047412340
+      Overlay_Red_118: 3407523770311592092
+      Overlay_Red_119: 6762225190987694707
+      Overlay_Red_12: 6097075823545896164
+      Overlay_Red_120: -5914184085645689049
+      Overlay_Red_121: 6401524276995275920
+      Overlay_Red_122: 1178370582989346063
+      Overlay_Red_123: 2656233867369812047
+      Overlay_Red_124: 4177707222255816676
+      Overlay_Red_125: -8586309337811482728
+      Overlay_Red_126: -7354978079411458976
+      Overlay_Red_127: -2474801938512550841
+      Overlay_Red_128: -6903780376962027646
+      Overlay_Red_129: -6625721674283929475
+      Overlay_Red_13: 2283416917848286841
+      Overlay_Red_130: 5448300722313243802
+      Overlay_Red_131: -8881188304686088260
+      Overlay_Red_132: -1809251946962925835
+      Overlay_Red_133: -7589795341517791880
+      Overlay_Red_134: -4707047813361750008
+      Overlay_Red_135: -2342112315835994165
+      Overlay_Red_136: -2642422455666649641
+      Overlay_Red_137: -7756513991752313822
+      Overlay_Red_138: 2506464931621270543
+      Overlay_Red_139: 1554824767528138751
+      Overlay_Red_14: 2976624078567476186
+      Overlay_Red_140: 5852869727080151786
+      Overlay_Red_141: 8684858383619017072
+      Overlay_Red_142: 5581058609328610503
+      Overlay_Red_143: 8040868754426673190
+      Overlay_Red_144: 7856728720144767135
+      Overlay_Red_145: -5922113610321470901
+      Overlay_Red_146: 4187915766269945691
+      Overlay_Red_147: -2448624873083418943
+      Overlay_Red_148: 6742941526521751932
+      Overlay_Red_149: 5701219163969454654
+      Overlay_Red_15: -4693985608381867953
+      Overlay_Red_150: -4971975097506126131
+      Overlay_Red_151: -726198399351923065
+      Overlay_Red_152: 4188858637293553590
+      Overlay_Red_153: -3122497689906663503
+      Overlay_Red_154: -336230347889205265
+      Overlay_Red_155: 1999954530542521039
+      Overlay_Red_156: -401644205003915108
+      Overlay_Red_157: -1272372533931945002
+      Overlay_Red_158: 195809874846210859
+      Overlay_Red_159: -6784249128408464338
+      Overlay_Red_16: -3519706589972663794
+      Overlay_Red_160: -622321707269194208
+      Overlay_Red_161: -6229210756309748199
+      Overlay_Red_162: 8349610670061888154
+      Overlay_Red_163: -3771196267159061283
+      Overlay_Red_164: -5444043326774961748
+      Overlay_Red_165: -1637152935761113900
+      Overlay_Red_166: -4051530059416159400
+      Overlay_Red_167: -7699014748639768727
+      Overlay_Red_168: 5157114152728325034
+      Overlay_Red_169: -4019996647749289912
+      Overlay_Red_17: 8589636749186205041
+      Overlay_Red_170: -3377139653678086613
+      Overlay_Red_171: -3145338385281651531
+      Overlay_Red_172: 5152862366078270786
+      Overlay_Red_173: 6665795860249916047
+      Overlay_Red_174: -164807762913880251
+      Overlay_Red_175: -1955502166513499031
+      Overlay_Red_176: 399980784867664358
+      Overlay_Red_177: -1860434649280236957
+      Overlay_Red_178: 8499454198351993832
+      Overlay_Red_179: -6473335888024489584
+      Overlay_Red_18: -1627306082407978879
+      Overlay_Red_180: -6426560344244333123
+      Overlay_Red_181: -3623482172747875559
+      Overlay_Red_182: -4338367778175773623
+      Overlay_Red_183: 250064679460088925
+      Overlay_Red_184: -5196166504487196558
+      Overlay_Red_185: 8887262809391369011
+      Overlay_Red_186: -7709694619226396452
+      Overlay_Red_187: -2988931611312670381
+      Overlay_Red_188: -5199104462281835399
+      Overlay_Red_189: -8036502223441363696
+      Overlay_Red_19: 4895509124513759861
+      Overlay_Red_190: 7717946997267011656
+      Overlay_Red_191: 5804041791852701400
+      Overlay_Red_192: 2814350739960253453
+      Overlay_Red_193: -1342133305190309578
+      Overlay_Red_194: -3717014361668324354
+      Overlay_Red_195: -2871457263405861659
+      Overlay_Red_196: -5822310630795306211
+      Overlay_Red_197: 2277064964967525427
+      Overlay_Red_198: 5170929454501792305
+      Overlay_Red_199: 7460521705525556550
+      Overlay_Red_2: -5839492869704161538
+      Overlay_Red_20: -6011181939947575402
+      Overlay_Red_200: 8432174402735080372
+      Overlay_Red_201: 552513405299172874
+      Overlay_Red_202: -2590463849282104732
+      Overlay_Red_203: -4775721137787681103
+      Overlay_Red_204: -2238110640017155912
+      Overlay_Red_205: 2077889241692096145
+      Overlay_Red_206: -7318605448108772492
+      Overlay_Red_207: 7735393427009978557
+      Overlay_Red_208: 3740269363440400425
+      Overlay_Red_209: -7539844016725232734
+      Overlay_Red_21: -7128756835127394200
+      Overlay_Red_210: -4535127985127662814
+      Overlay_Red_211: -4821760423659461529
+      Overlay_Red_212: -7434535764180240608
+      Overlay_Red_213: -6726948140605916689
+      Overlay_Red_214: -2148154114264476516
+      Overlay_Red_215: -4922892862055241900
+      Overlay_Red_216: 6430657166588011877
+      Overlay_Red_217: 4988152686865088188
+      Overlay_Red_218: -1288169154699264019
+      Overlay_Red_219: 6167153949201285516
+      Overlay_Red_22: -8942123062002830135
+      Overlay_Red_220: 8101499319118224786
+      Overlay_Red_221: -4028703705972958886
+      Overlay_Red_222: -1090967015681584803
+      Overlay_Red_223: 1020999429965617881
+      Overlay_Red_224: -7183184156892750649
+      Overlay_Red_225: -7359501635728846131
+      Overlay_Red_226: -3951976420893937929
+      Overlay_Red_227: 3556294378852536017
+      Overlay_Red_228: 3495847142299772641
+      Overlay_Red_23: 577692963570817802
+      Overlay_Red_24: -9059954032767064064
+      Overlay_Red_25: -8425862913959651808
+      Overlay_Red_26: 8422858062640236025
+      Overlay_Red_27: -2379697245906329818
+      Overlay_Red_28: 8884777834360240733
+      Overlay_Red_29: 8668285951917846220
+      Overlay_Red_3: 146756432122331475
+      Overlay_Red_30: 239122142060097297
+      Overlay_Red_31: -1726183288204268259
+      Overlay_Red_32: -7773673719961071710
+      Overlay_Red_33: -2936500991321090064
+      Overlay_Red_34: 3295065853178879080
+      Overlay_Red_35: -3389511472482832243
+      Overlay_Red_36: 76285573899216771
+      Overlay_Red_37: 7920352483921336405
+      Overlay_Red_38: -449438668457710409
+      Overlay_Red_39: -487320179853685194
+      Overlay_Red_4: -1580879820084025831
+      Overlay_Red_40: -1053484482267271396
+      Overlay_Red_41: -3990183239080973397
+      Overlay_Red_42: 2587842527471320620
+      Overlay_Red_43: 3000140566837917712
+      Overlay_Red_44: -5388312381346713874
+      Overlay_Red_45: -6607161350220820164
+      Overlay_Red_46: 7911707040056697739
+      Overlay_Red_47: -6413110561487132799
+      Overlay_Red_48: 1194971469322350960
+      Overlay_Red_49: -4102624584023036338
+      Overlay_Red_5: 5943228522301035525
+      Overlay_Red_50: -803948190614848188
+      Overlay_Red_51: 7466304585263770432
+      Overlay_Red_52: 723207403156526034
+      Overlay_Red_53: -1107695563333721963
+      Overlay_Red_54: -4912292223924350352
+      Overlay_Red_55: -8278952170669477925
+      Overlay_Red_56: -1634282785568453942
+      Overlay_Red_57: -2934468423253535151
+      Overlay_Red_58: 1712607250774909425
+      Overlay_Red_59: 8707758829393396646
+      Overlay_Red_6: 6125180333112543875
+      Overlay_Red_60: 7488238620775371635
+      Overlay_Red_61: 5785399800008198196
+      Overlay_Red_62: -8803807972547849253
+      Overlay_Red_63: 1972104302746644890
+      Overlay_Red_64: 8357277389991786370
+      Overlay_Red_65: 3713056895820989119
+      Overlay_Red_66: -3440657770562181686
+      Overlay_Red_67: -2244242216493077835
+      Overlay_Red_68: 3968254337836748158
+      Overlay_Red_69: -2112478273574888027
+      Overlay_Red_7: 4582540804469649798
+      Overlay_Red_70: -3398949696139458224
+      Overlay_Red_71: 5369792178538954520
+      Overlay_Red_72: 6581896171398411876
+      Overlay_Red_73: -1298325685105803120
+      Overlay_Red_74: -8309876623446719014
+      Overlay_Red_75: -3805167943403035485
+      Overlay_Red_76: -2776073465058319836
+      Overlay_Red_77: -1991357880542261889
+      Overlay_Red_78: 2145355537575579020
+      Overlay_Red_79: -6384944131558150257
+      Overlay_Red_8: -3741852938979702522
+      Overlay_Red_80: -7874360056926539718
+      Overlay_Red_81: 1896156660674986529
+      Overlay_Red_82: -822006037689169049
+      Overlay_Red_83: 5074260847644436224
+      Overlay_Red_84: 4610196087352421120
+      Overlay_Red_85: 6232621580082280697
+      Overlay_Red_86: -6694189400537265553
+      Overlay_Red_87: -2774728764850781193
+      Overlay_Red_88: -2332846295125379846
+      Overlay_Red_89: -6696539631118915752
+      Overlay_Red_9: -8197675095422322390
+      Overlay_Red_90: 5247455324748182418
+      Overlay_Red_91: 7003282416279597820
+      Overlay_Red_92: -5820928056660846228
+      Overlay_Red_93: 2862481815480179191
+      Overlay_Red_94: 6977814518041565914
+      Overlay_Red_95: -96519709444613840
+      Overlay_Red_96: 4724938443901702905
+      Overlay_Red_97: 1847873577306134241
+      Overlay_Red_98: 2369984010993094822
+      Overlay_Red_99: 3042456426863948417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

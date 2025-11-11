@@ -1,0 +1,22 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class AWW_PersonHit : AudioWwise
+{
+    [SerializeField] PlayerCombat attackComp;
+
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        StartCondition = Component.FindFirstObjectByType<PlayerCombat>().GetHitCollision();
+        AudioUpdate();
+    }
+}

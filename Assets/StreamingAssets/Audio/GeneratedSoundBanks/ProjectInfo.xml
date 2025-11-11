@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="ProjectBeatEmMop_WwiseProject" GUID="{3B22F9BD-5680-4126-828B-A63A15EB0272}" Generator="2023.1.1.8417"/>
+	<CacheRoot>../../../../ProjectBeatEmMop_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{E6C9CA92-D988-480E-9779-EA8DBD5062B2}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../ProjectBeatEmMop_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{C555106B-E7B6-417E-A8B9-C2D9F3448CF0}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../ProjectBeatEmMop_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{F670D484-1B7E-444D-A54A-CEC4FCE652DB}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{C85B6381-7500-BC09-2021-AE5111E28F86}</FileHash>
+</ProjectInfo>

@@ -1,0 +1,5112 @@
+fileFormatVersion: 2
+guid: ab8de906818136346a1f061d250888fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6196947135719515352
+    second: Overlay_Rage_Top_0
+  - first:
+      213: -6309020422447217918
+    second: Overlay_Rage_Top_1
+  - first:
+      213: -2667716250997351195
+    second: Overlay_Rage_Top_2
+  - first:
+      213: 6028514527058358816
+    second: Overlay_Rage_Top_3
+  - first:
+      213: 3372840034643565757
+    second: Overlay_Rage_Top_4
+  - first:
+      213: 127835391192668997
+    second: Overlay_Rage_Top_5
+  - first:
+      213: -8191500908387196188
+    second: Overlay_Rage_Top_6
+  - first:
+      213: 2693010905492494703
+    second: Overlay_Rage_Top_7
+  - first:
+      213: -1487677602475209958
+    second: Overlay_Rage_Top_8
+  - first:
+      213: -6981407537533015610
+    second: Overlay_Rage_Top_9
+  - first:
+      213: 4015507759744475715
+    second: Overlay_Rage_Top_10
+  - first:
+      213: -2455198142648953850
+    second: Overlay_Rage_Top_11
+  - first:
+      213: -6501037745169633928
+    second: Overlay_Rage_Top_12
+  - first:
+      213: -1730624898371128283
+    second: Overlay_Rage_Top_13
+  - first:
+      213: -5850933007622647119
+    second: Overlay_Rage_Top_14
+  - first:
+      213: 301108654429550236
+    second: Overlay_Rage_Top_15
+  - first:
+      213: 7182819277124835234
+    second: Overlay_Rage_Top_16
+  - first:
+      213: -30091766724815802
+    second: Overlay_Rage_Top_17
+  - first:
+      213: 3535565782944689874
+    second: Overlay_Rage_Top_18
+  - first:
+      213: 8825034916712761936
+    second: Overlay_Rage_Top_19
+  - first:
+      213: 596565354455747258
+    second: Overlay_Rage_Top_20
+  - first:
+      213: 7729944130836844619
+    second: Overlay_Rage_Top_21
+  - first:
+      213: -6606147259763113247
+    second: Overlay_Rage_Top_22
+  - first:
+      213: 1815898585961879783
+    second: Overlay_Rage_Top_23
+  - first:
+      213: 1605935093381791853
+    second: Overlay_Rage_Top_24
+  - first:
+      213: 2759916385045273024
+    second: Overlay_Rage_Top_25
+  - first:
+      213: -3706521242651905613
+    second: Overlay_Rage_Top_26
+  - first:
+      213: 4648763324591465550
+    second: Overlay_Rage_Top_27
+  - first:
+      213: 8960179340284936058
+    second: Overlay_Rage_Top_28
+  - first:
+      213: 2843870222370487611
+    second: Overlay_Rage_Top_29
+  - first:
+      213: -6976186546745341160
+    second: Overlay_Rage_Top_30
+  - first:
+      213: 5718791843193589610
+    second: Overlay_Rage_Top_31
+  - first:
+      213: -8214013460874563297
+    second: Overlay_Rage_Top_32
+  - first:
+      213: 4122359531010727189
+    second: Overlay_Rage_Top_33
+  - first:
+      213: -7695119353766764825
+    second: Overlay_Rage_Top_34
+  - first:
+      213: 5812927251622479059
+    second: Overlay_Rage_Top_35
+  - first:
+      213: 4120241779539219319
+    second: Overlay_Rage_Top_36
+  - first:
+      213: -5732259496945326984
+    second: Overlay_Rage_Top_37
+  - first:
+      213: -8738789878773958520
+    second: Overlay_Rage_Top_38
+  - first:
+      213: 1701935779672698008
+    second: Overlay_Rage_Top_39
+  - first:
+      213: 4963419917591551642
+    second: Overlay_Rage_Top_40
+  - first:
+      213: -6439837689858723061
+    second: Overlay_Rage_Top_41
+  - first:
+      213: -4342409589894599595
+    second: Overlay_Rage_Top_42
+  - first:
+      213: -31630400827641715
+    second: Overlay_Rage_Top_43
+  - first:
+      213: -8316702641734149051
+    second: Overlay_Rage_Top_44
+  - first:
+      213: -2607137527216266748
+    second: Overlay_Rage_Top_45
+  - first:
+      213: 4479690107116258472
+    second: Overlay_Rage_Top_46
+  - first:
+      213: -8640028746692851732
+    second: Overlay_Rage_Top_47
+  - first:
+      213: 4464947056565966174
+    second: Overlay_Rage_Top_48
+  - first:
+      213: 7256552548977982064
+    second: Overlay_Rage_Top_49
+  - first:
+      213: 6800394064471905683
+    second: Overlay_Rage_Top_50
+  - first:
+      213: -5403173625002562235
+    second: Overlay_Rage_Top_51
+  - first:
+      213: -5040465924175936563
+    second: Overlay_Rage_Top_52
+  - first:
+      213: -395425076273848927
+    second: Overlay_Rage_Top_53
+  - first:
+      213: -2671116661898496161
+    second: Overlay_Rage_Top_54
+  - first:
+      213: -1278656707126485386
+    second: Overlay_Rage_Top_55
+  - first:
+      213: -6686966413146888377
+    second: Overlay_Rage_Top_56
+  - first:
+      213: -8577029590599462813
+    second: Overlay_Rage_Top_57
+  - first:
+      213: -8485668128144135427
+    second: Overlay_Rage_Top_58
+  - first:
+      213: -2257101782324896180
+    second: Overlay_Rage_Top_59
+  - first:
+      213: -2503820807216895886
+    second: Overlay_Rage_Top_60
+  - first:
+      213: 3891159634865860334
+    second: Overlay_Rage_Top_61
+  - first:
+      213: 1013556770051862837
+    second: Overlay_Rage_Top_62
+  - first:
+      213: -1599256234148122964
+    second: Overlay_Rage_Top_63
+  - first:
+      213: -1916608933135583636
+    second: Overlay_Rage_Top_64
+  - first:
+      213: 4803414542721132874
+    second: Overlay_Rage_Top_65
+  - first:
+      213: 3853020727077562412
+    second: Overlay_Rage_Top_66
+  - first:
+      213: -5489427028793607123
+    second: Overlay_Rage_Top_67
+  - first:
+      213: -531946136131765437
+    second: Overlay_Rage_Top_68
+  - first:
+      213: -3415036505422455749
+    second: Overlay_Rage_Top_69
+  - first:
+      213: -2837709079371016337
+    second: Overlay_Rage_Top_70
+  - first:
+      213: -6574928249881377897
+    second: Overlay_Rage_Top_71
+  - first:
+      213: -9057170545016590269
+    second: Overlay_Rage_Top_72
+  - first:
+      213: -1873040195717917277
+    second: Overlay_Rage_Top_73
+  - first:
+      213: -7188500704539939066
+    second: Overlay_Rage_Top_74
+  - first:
+      213: -2351435312851663728
+    second: Overlay_Rage_Top_75
+  - first:
+      213: 5480308076365556381
+    second: Overlay_Rage_Top_76
+  - first:
+      213: 7441732342392844138
+    second: Overlay_Rage_Top_77
+  - first:
+      213: 1299780152298898994
+    second: Overlay_Rage_Top_78
+  - first:
+      213: -6143724547969616383
+    second: Overlay_Rage_Top_79
+  - first:
+      213: -4967379817453827805
+    second: Overlay_Rage_Top_80
+  - first:
+      213: -3455332384338542879
+    second: Overlay_Rage_Top_81
+  - first:
+      213: -7655486223055336822
+    second: Overlay_Rage_Top_82
+  - first:
+      213: 2453651888550389154
+    second: Overlay_Rage_Top_83
+  - first:
+      213: 8573319160355465271
+    second: Overlay_Rage_Top_84
+  - first:
+      213: -3231916506223840213
+    second: Overlay_Rage_Top_85
+  - first:
+      213: -1782840280483039167
+    second: Overlay_Rage_Top_86
+  - first:
+      213: 1194117297070616141
+    second: Overlay_Rage_Top_87
+  - first:
+      213: -3409286875454790365
+    second: Overlay_Rage_Top_88
+  - first:
+      213: 4794181901952810953
+    second: Overlay_Rage_Top_89
+  - first:
+      213: -1516206951379912435
+    second: Overlay_Rage_Top_90
+  - first:
+      213: -1575253890737378282
+    second: Overlay_Rage_Top_91
+  - first:
+      213: 1576014240621059978
+    second: Overlay_Rage_Top_92
+  - first:
+      213: -4700611468511725216
+    second: Overlay_Rage_Top_93
+  - first:
+      213: 6653547585547270237
+    second: Overlay_Rage_Top_94
+  - first:
+      213: -7543514380794895394
+    second: Overlay_Rage_Top_95
+  - first:
+      213: -3814397164117157192
+    second: Overlay_Rage_Top_96
+  - first:
+      213: 5820156589101430122
+    second: Overlay_Rage_Top_97
+  - first:
+      213: -792343444259556291
+    second: Overlay_Rage_Top_98
+  - first:
+      213: -4607466103717159745
+    second: Overlay_Rage_Top_99
+  - first:
+      213: 1307154365747074970
+    second: Overlay_Rage_Top_100
+  - first:
+      213: -6361681518316049514
+    second: Overlay_Rage_Top_101
+  - first:
+      213: -6969999717955697427
+    second: Overlay_Rage_Top_102
+  - first:
+      213: 5232529736085339886
+    second: Overlay_Rage_Top_103
+  - first:
+      213: 5824400198960177570
+    second: Overlay_Rage_Top_104
+  - first:
+      213: -4261323743158977142
+    second: Overlay_Rage_Top_105
+  - first:
+      213: 4954555324428361183
+    second: Overlay_Rage_Top_106
+  - first:
+      213: -7096719934883679734
+    second: Overlay_Rage_Top_107
+  - first:
+      213: -5717699826746848432
+    second: Overlay_Rage_Top_108
+  - first:
+      213: 141987203280897864
+    second: Overlay_Rage_Top_109
+  - first:
+      213: -4828721625177789771
+    second: Overlay_Rage_Top_110
+  - first:
+      213: -5246962071495511937
+    second: Overlay_Rage_Top_111
+  - first:
+      213: 5714096145127326681
+    second: Overlay_Rage_Top_112
+  - first:
+      213: 8710109096735747364
+    second: Overlay_Rage_Top_113
+  - first:
+      213: 58592003876631556
+    second: Overlay_Rage_Top_114
+  - first:
+      213: 4634672390912806537
+    second: Overlay_Rage_Top_115
+  - first:
+      213: 2416655047850548216
+    second: Overlay_Rage_Top_116
+  - first:
+      213: -995243597320754690
+    second: Overlay_Rage_Top_117
+  - first:
+      213: -682520745887977406
+    second: Overlay_Rage_Top_118
+  - first:
+      213: -7038933919386145240
+    second: Overlay_Rage_Top_119
+  - first:
+      213: 4743077847323150453
+    second: Overlay_Rage_Top_120
+  - first:
+      213: 8144515084062416431
+    second: Overlay_Rage_Top_121
+  - first:
+      213: -2257376585520359076
+    second: Overlay_Rage_Top_122
+  - first:
+      213: -736704977737668834
+    second: Overlay_Rage_Top_123
+  - first:
+      213: 8171715945689085273
+    second: Overlay_Rage_Top_124
+  - first:
+      213: 4558730238035106925
+    second: Overlay_Rage_Top_125
+  - first:
+      213: -8516141634377294469
+    second: Overlay_Rage_Top_126
+  - first:
+      213: -8682285015404606092
+    second: Overlay_Rage_Top_127
+  - first:
+      213: -2825477219574846522
+    second: Overlay_Rage_Top_128
+  - first:
+      213: -4473187395326063109
+    second: Overlay_Rage_Top_129
+  - first:
+      213: -1530790759693889086
+    second: Overlay_Rage_Top_130
+  - first:
+      213: -8783107043232430874
+    second: Overlay_Rage_Top_131
+  - first:
+      213: -798292437063262235
+    second: Overlay_Rage_Top_132
+  - first:
+      213: -1704087765435924693
+    second: Overlay_Rage_Top_133
+  - first:
+      213: 1307378222499257440
+    second: Overlay_Rage_Top_134
+  - first:
+      213: -4392167818389762095
+    second: Overlay_Rage_Top_135
+  - first:
+      213: -464405673832142409
+    second: Overlay_Rage_Top_136
+  - first:
+      213: 3399308780952460396
+    second: Overlay_Rage_Top_137
+  - first:
+      213: 7015588697528303817
+    second: Overlay_Rage_Top_138
+  - first:
+      213: 4386202017375899389
+    second: Overlay_Rage_Top_139
+  - first:
+      213: 874346576533722043
+    second: Overlay_Rage_Top_140
+  - first:
+      213: -8578498933220668884
+    second: Overlay_Rage_Top_141
+  - first:
+      213: -4992521481774101114
+    second: Overlay_Rage_Top_142
+  - first:
+      213: -706416916448728124
+    second: Overlay_Rage_Top_143
+  - first:
+      213: 7182214283717130032
+    second: Overlay_Rage_Top_144
+  - first:
+      213: -8567852176931298308
+    second: Overlay_Rage_Top_145
+  - first:
+      213: -3139258781527380644
+    second: Overlay_Rage_Top_146
+  - first:
+      213: -6735831570378016762
+    second: Overlay_Rage_Top_147
+  - first:
+      213: 4458496046440057589
+    second: Overlay_Rage_Top_148
+  - first:
+      213: -7631513636297149931
+    second: Overlay_Rage_Top_149
+  - first:
+      213: 7192777900937021189
+    second: Overlay_Rage_Top_150
+  - first:
+      213: 905218646401644243
+    second: Overlay_Rage_Top_151
+  - first:
+      213: 6836192170681167784
+    second: Overlay_Rage_Top_152
+  - first:
+      213: 6802801106013475661
+    second: Overlay_Rage_Top_153
+  - first:
+      213: 4006611928990723820
+    second: Overlay_Rage_Top_154
+  - first:
+      213: 3861137055674011436
+    second: Overlay_Rage_Top_155
+  - first:
+      213: -691647554685699483
+    second: Overlay_Rage_Top_156
+  - first:
+      213: -3663828662765640917
+    second: Overlay_Rage_Top_157
+  - first:
+      213: 8032468638484334259
+    second: Overlay_Rage_Top_158
+  - first:
+      213: -2381801644206076480
+    second: Overlay_Rage_Top_159
+  - first:
+      213: 6650218395365287514
+    second: Overlay_Rage_Top_160
+  - first:
+      213: 3212892341825299779
+    second: Overlay_Rage_Top_161
+  - first:
+      213: -4838047674232082399
+    second: Overlay_Rage_Top_162
+  - first:
+      213: -1843305343034669800
+    second: Overlay_Rage_Top_163
+  - first:
+      213: 3679730053274214636
+    second: Overlay_Rage_Top_164
+  - first:
+      213: 4323282963393302045
+    second: Overlay_Rage_Top_165
+  - first:
+      213: 4925138765730542139
+    second: Overlay_Rage_Top_166
+  - first:
+      213: 7650823656910948446
+    second: Overlay_Rage_Top_167
+  - first:
+      213: -5891866366313785825
+    second: Overlay_Rage_Top_168
+  - first:
+      213: -8778329943568732765
+    second: Overlay_Rage_Top_169
+  - first:
+      213: -599925858270071472
+    second: Overlay_Rage_Top_170
+  - first:
+      213: -3628868206994953682
+    second: Overlay_Rage_Top_171
+  - first:
+      213: -2690605631076167655
+    second: Overlay_Rage_Top_172
+  - first:
+      213: -8326395778001834744
+    second: Overlay_Rage_Top_173
+  - first:
+      213: -3636788826332097231
+    second: Overlay_Rage_Top_174
+  - first:
+      213: 3880799440039132434
+    second: Overlay_Rage_Top_175
+  - first:
+      213: 2953286836282764134
+    second: Overlay_Rage_Top_176
+  - first:
+      213: 5064301834585673408
+    second: Overlay_Rage_Top_177
+  - first:
+      213: -8975339020116011132
+    second: Overlay_Rage_Top_178
+  - first:
+      213: -2057357073924719774
+    second: Overlay_Rage_Top_179
+  - first:
+      213: 2408598716047380579
+    second: Overlay_Rage_Top_180
+  - first:
+      213: -2833696044783866226
+    second: Overlay_Rage_Top_181
+  - first:
+      213: 6472350947066058991
+    second: Overlay_Rage_Top_182
+  - first:
+      213: -6916359145885244708
+    second: Overlay_Rage_Top_183
+  - first:
+      213: -514237063894986586
+    second: Overlay_Rage_Top_184
+  - first:
+      213: -6405051417876689816
+    second: Overlay_Rage_Top_185
+  - first:
+      213: -7773720341355019148
+    second: Overlay_Rage_Top_186
+  - first:
+      213: 1723655115408652724
+    second: Overlay_Rage_Top_187
+  - first:
+      213: -4249158736294904824
+    second: Overlay_Rage_Top_188
+  - first:
+      213: -1860826071967583787
+    second: Overlay_Rage_Top_189
+  - first:
+      213: 3330543219794834533
+    second: Overlay_Rage_Top_190
+  - first:
+      213: -4784878952524078591
+    second: Overlay_Rage_Top_191
+  - first:
+      213: -4785072001587737067
+    second: Overlay_Rage_Top_192
+  - first:
+      213: 1142727691346599658
+    second: Overlay_Rage_Top_193
+  - first:
+      213: -3619782566257207133
+    second: Overlay_Rage_Top_194
+  - first:
+      213: -7837347659216798165
+    second: Overlay_Rage_Top_195
+  - first:
+      213: -2183197760213847863
+    second: Overlay_Rage_Top_196
+  - first:
+      213: 7502605578244000226
+    second: Overlay_Rage_Top_197
+  - first:
+      213: 7210103799394516550
+    second: Overlay_Rage_Top_198
+  - first:
+      213: 6594516240944412388
+    second: Overlay_Rage_Top_199
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 1920
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4af6c469afff550800000000000000
+      internalID: 6196947135719515352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 610
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20349573a5bd178a0800000000000000
+      internalID: -6309020422447217918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec14c1343e5afad0800000000000000
+      internalID: -2667716250997351195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022789c950699a350800000000000000
+      internalID: 6028514527058358816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 615
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5525342cbece20800000000000000
+      internalID: 3372840034643565757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b13c96c9926c100800000000000000
+      internalID: 127835391192668997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 622
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2aa420351f15e80800000000000000
+      internalID: -8191500908387196188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69122e762f7f5520800000000000000
+      internalID: 2693010905492494703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b09244a15ba5be0800000000000000
+      internalID: -1487677602475209958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 621
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92c1d65de0d1f90800000000000000
+      internalID: -6981407537533015610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 627
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342e46c4803f9b730800000000000000
+      internalID: 4015507759744475715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d5362c426dedd0800000000000000
+      internalID: -2455198142648953850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de1cf5d9ca7c5a0800000000000000
+      internalID: -6501037745169633928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524742df2d59bf7e0800000000000000
+      internalID: -1730624898371128283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25b0cdd6f4dcea0800000000000000
+      internalID: -5850933007622647119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b112d9b0cd2400800000000000000
+      internalID: 301108654429550236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79ada83108ea360800000000000000
+      internalID: 7182819277124835234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64414b592b7159ff0800000000000000
+      internalID: -30091766724815802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea17ce85ad01130800000000000000
+      internalID: 3535565782944689874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a451def72d87a70800000000000000
+      internalID: 8825034916712761936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac3a5770d674800800000000000000
+      internalID: 596565354455747258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4055246b37464b60800000000000000
+      internalID: 7729944130836844619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e246ef61104254a0800000000000000
+      internalID: -6606147259763113247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e85464942e533910800000000000000
+      internalID: 1815898585961879783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600b55757d694610800000000000000
+      internalID: 1605935093381791853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9576c54513d4620800000000000000
+      internalID: 2759916385045273024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 633
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13b4b519acf8cc0800000000000000
+      internalID: -3706521242651905613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44632f0d99b38040800000000000000
+      internalID: 4648763324591465550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3a7d03a3f85c70800000000000000
+      internalID: 8960179340284936058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d34b756e4777720800000000000000
+      internalID: 2843870222370487611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b82621c4b9f2f90800000000000000
+      internalID: -6976186546745341160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f84f5c1ea3d5f40800000000000000
+      internalID: 5718791843193589610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 615
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f117b4ce646f10e80800000000000000
+      internalID: -8214013460874563297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d175af620953930800000000000000
+      internalID: 4122359531010727189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 633
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee9f7ed7b1753590800000000000000
+      internalID: -7695119353766764825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d44522898aaba050800000000000000
+      internalID: 5812927251622479059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773982a811a0e2930800000000000000
+      internalID: 4120241779539219319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874e63cbb5ce270b0800000000000000
+      internalID: -5732259496945326984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 615
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88836e4c7e499b680800000000000000
+      internalID: -8738789878773958520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 633
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2be9039d7e9710800000000000000
+      internalID: 1701935779672698008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e94232e1c91e440800000000000000
+      internalID: 4963419917591551642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037cc4adb911a6a0800000000000000
+      internalID: -6439837689858723061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c251d2c79acb3c0800000000000000
+      internalID: -4342409589894599595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 615
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80b09a6150af8ff0800000000000000
+      internalID: -31630400827641715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 633
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c12e8d203259c80800000000000000
+      internalID: -8316702641734149051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4022fa17b3691dbd0800000000000000
+      internalID: -2607137527216266748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 607
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a40f720b6e0b2e30800000000000000
+      internalID: 4479690107116258472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce78538b1a3781880800000000000000
+      internalID: -8640028746692851732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 612
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e555a8f01bda6fd30800000000000000
+      internalID: 4464947056565966174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 617
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab9cfa81474b460800000000000000
+      internalID: 7256552548977982064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d5812f5adf5e50800000000000000
+      internalID: 6800394064471905683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d66fd17321405b0800000000000000
+      internalID: -5403173625002562235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3480f82faac0ab0800000000000000
+      internalID: -5040465924175936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad5a69fcfa238af0800000000000000
+      internalID: -395425076273848927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b9e55c894eead0800000000000000
+      internalID: -2671116661898496161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 603
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1e0edf7c414ee0800000000000000
+      internalID: -1278656707126485386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747696fe97f1333a0800000000000000
+      internalID: -6686966413146888377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3601e48c70548f880800000000000000
+      internalID: -8577029590599462813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa6d14ebc9dc3a80800000000000000
+      internalID: -8485668128144135427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9f9a33e92da0e0800000000000000
+      internalID: -2257101782324896180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ea9cdd34a04dd0800000000000000
+      internalID: -2503820807216895886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea488521d200630800000000000000
+      internalID: 3891159634865860334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53132a62380e01e00800000000000000
+      internalID: 1013556770051862837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea5c2adec4ec9e0800000000000000
+      internalID: -1599256234148122964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66fc177456d665e0800000000000000
+      internalID: -1916608933135583636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a6d7b31829a240800000000000000
+      internalID: 4803414542721132874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28eca5efeda87530800000000000000
+      internalID: 3853020727077562412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 603
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c34589333a1d3b0800000000000000
+      internalID: -5489427028793607123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b793cbec52e98f0800000000000000
+      internalID: -531946136131765437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 604
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9d47546a5b90d0800000000000000
+      internalID: -3415036505422455749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67903c80ae6e98d0800000000000000
+      internalID: -2837709079371016337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 604
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793c32a979921c4a0800000000000000
+      internalID: -6574928249881377897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b72250677e4280800000000000000
+      internalID: -9057170545016590269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 604
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a59434addf9106e0800000000000000
+      internalID: -1873040195717917277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_74
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 599
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f604e02b05d3c90800000000000000
+      internalID: -7188500704539939066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 595
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094ca299a060e5fd0800000000000000
+      internalID: -2351435312851663728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 604
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2977d827fd0c40800000000000000
+      internalID: 5480308076365556381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 580
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f6cdd2328564760800000000000000
+      internalID: 7441732342392844138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23601e7792fb90210800000000000000
+      internalID: 1299780152298898994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 592
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067c60131b1dbaa0800000000000000
+      internalID: -6143724547969616383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294834df52501bb0800000000000000
+      internalID: -4967379817453827805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef89ae0813c00d0800000000000000
+      internalID: -3455332384338542879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ac3e337df32c590800000000000000
+      internalID: -7655486223055336822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a52383846f1d0220800000000000000
+      internalID: 2453651888550389154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a90b5a5c8af670800000000000000
+      internalID: 8573319160355465271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247ece9f0de523d0800000000000000
+      internalID: -3231916506223840213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148fc86f5341247e0800000000000000
+      internalID: -1782840280483039167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2b00ea5b529010800000000000000
+      internalID: 1194117297070616141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ad1366a7cfa0d0800000000000000
+      internalID: -3409286875454790365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff0860a0b588240800000000000000
+      internalID: 4794181901952810953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09b5099fc955fae0800000000000000
+      internalID: -1516206951379912435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_91
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ceb83bee2932ae0800000000000000
+      internalID: -1575253890737378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fdc2d0a902fd510800000000000000
+      internalID: 1576014240621059978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693b3836c214ceb0800000000000000
+      internalID: -4700611468511725216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58f3bce646265c50800000000000000
+      internalID: 6653547585547270237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed36bae43ad005790800000000000000
+      internalID: -7543514380794895394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba1a802df9801bc0800000000000000
+      internalID: -3814397164117157192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_97
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653a8ec49955c050800000000000000
+      internalID: 5820156589101430122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_98
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34bcc0e5d70105f0800000000000000
+      internalID: -792343444259556291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_99
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc19457dfdfe00c0800000000000000
+      internalID: -4607466103717159745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_100
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 585
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9794f458f1f32210800000000000000
+      internalID: 1307154365747074970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 592
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69baa9e5d54c6b7a0800000000000000
+      internalID: -6361681518316049514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 587
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de48da66f26954f90800000000000000
+      internalID: -6969999717955697427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 592
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef804621ead9840800000000000000
+      internalID: 5232529736085339886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 569
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16cb83f1d64d050800000000000000
+      internalID: 5824400198960177570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d321012acbcd4c0800000000000000
+      internalID: -4261323743158977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd929431dd12c440800000000000000
+      internalID: 4954555324428361183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0233dab1d2638d90800000000000000
+      internalID: -7096719934883679734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b017e1d46a6a0b0800000000000000
+      internalID: -5717699826746848432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847853eeb9078f100800000000000000
+      internalID: 141987203280897864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_110
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae70cf34fecfcb0800000000000000
+      internalID: -4828721625177789771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_111
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ff8aabcb0f27b0800000000000000
+      internalID: -5246962071495511937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_112
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34ebe5b2c8c4f40800000000000000
+      internalID: 5714096145127326681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_113
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d25d9431680e870800000000000000
+      internalID: 8710109096735747364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404beb9fd1920d000800000000000000
+      internalID: 58592003876631556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0ba6ebf9a15040800000000000000
+      internalID: 4634672390912806537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb59c746fea98120800000000000000
+      internalID: 2416655047850548216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e6b4a83f2032f0800000000000000
+      internalID: -995243597320754690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240338d6ff23786f0800000000000000
+      internalID: -682520745887977406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_119
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6a89e4eea05e90800000000000000
+      internalID: -7038933919386145240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_120
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57888b71c2cc2d140800000000000000
+      internalID: 4743077847323150453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed9554151270170800000000000000
+      internalID: 8144515084062416431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5956cf94ff2ca0e0800000000000000
+      internalID: -2257376585520359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e172fa9d9b2b6c5f0800000000000000
+      internalID: -736704977737668834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_124
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95571346b54c76170800000000000000
+      internalID: 8171715945689085273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_125
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1ae09ffcd34f30800000000000000
+      internalID: 4558730238035106925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_126
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd602dd4690d980800000000000000
+      internalID: -8516141634377294469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d8c1a77c3528780800000000000000
+      internalID: -8682285015404606092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_128
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb68465073e9c8d0800000000000000
+      internalID: -2825477219574846522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_129
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc5df83cb0ce1c0800000000000000
+      internalID: -4473187395326063109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_130
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 569
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1defe1ae981cae0800000000000000
+      internalID: -1530790759693889086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_131
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e446e7dda22c1680800000000000000
+      internalID: -8783107043232430874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef96fd0245ebe4f0800000000000000
+      internalID: -798292437063262235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 567
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f3a1bb43dd958e0800000000000000
+      internalID: -1704087765435924693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_134
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c562b019db42210800000000000000
+      internalID: 1307378222499257440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc9fec3a2eb03c0800000000000000
+      internalID: -4392167818389762095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 569
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b92f8b00891e89f0800000000000000
+      internalID: -464405673832142409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_137
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c99827355cc2f20800000000000000
+      internalID: 3399308780952460396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c08b6e00c06c5160800000000000000
+      internalID: 7015588697528303817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfecac6ee7beedc30800000000000000
+      internalID: 4386202017375899389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb31fd0349d422c00800000000000000
+      internalID: 874346576533722043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_141
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 577
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a805bcbac03f880800000000000000
+      internalID: -8578498933220668884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d0951f92007bab0800000000000000
+      internalID: -4992521481774101114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_143
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2fb7ae8d4236f0800000000000000
+      internalID: -706416916448728124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_144
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03732b986d95ca360800000000000000
+      internalID: 7182214283717130032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e3f9e6dfd81980800000000000000
+      internalID: -8567852176931298308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de80d45cc1f64d0800000000000000
+      internalID: -3139258781527380644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b1ccefd48582a0800000000000000
+      internalID: -6735831570378016762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0b883882cfdd30800000000000000
+      internalID: 4458496046440057589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51275f108ca671690800000000000000
+      internalID: -7631513636297149931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_150
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50781a55461e1d360800000000000000
+      internalID: 7192777900937021189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_151
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d674d6109bff8c00800000000000000
+      internalID: 905218646401644243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_152
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afe1cd3f880fde50800000000000000
+      internalID: 6836192170681167784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_153
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4351992097686e50800000000000000
+      internalID: 6802801106013475661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_154
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea55c42585a9730800000000000000
+      internalID: 4006611928990723820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_155
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f0c88e1b3859530800000000000000
+      internalID: 3861137055674011436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af039a636c666f0800000000000000
+      internalID: -691647554685699483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23a5f53e37772dc0800000000000000
+      internalID: -3663828662765640917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_158
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 557
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6035a3baf097f60800000000000000
+      internalID: 8032468638484334259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc7af160422fed0800000000000000
+      internalID: -2381801644206076480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_160
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56248e65625a4c50800000000000000
+      internalID: 6650218395365287514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_161
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e110ff8c769c20800000000000000
+      internalID: 3212892341825299779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 557
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120fdfaf54dcbdcb0800000000000000
+      internalID: -4838047674232082399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_163
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c6d78e834b66e0800000000000000
+      internalID: -1843305343034669800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_164
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce02db6ccf6011330800000000000000
+      internalID: 3679730053274214636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e4e8013f26ffb30800000000000000
+      internalID: 4323282963393302045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_166
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32ffd8ec9b995440800000000000000
+      internalID: 4925138765730542139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_167
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580555849f2d2a60800000000000000
+      internalID: 7650823656910948446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_168
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169bcb91c2eb3ea0800000000000000
+      internalID: -5891866366313785825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_169
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad29680d6b1d2680800000000000000
+      internalID: -8778329943568732765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_170
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055bd364c92aca7f0800000000000000
+      internalID: -599925858270071472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_171
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a6b51a79ba3adc0800000000000000
+      internalID: -3628868206994953682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101a091f6c09aad0800000000000000
+      internalID: -2690605631076167655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_173
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d63e0b723b27c80800000000000000
+      internalID: -8326395778001834744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 558
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359d5bb4d7878dc0800000000000000
+      internalID: -3636788826332097231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_175
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 553
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3114878e5bd530800000000000000
+      internalID: 3880799440039132434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_176
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 555
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba87cfabe2cf820800000000000000
+      internalID: 2953286836282764134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_177
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce86ddcfa3084640800000000000000
+      internalID: 5064301834585673408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 539
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487584fe6b0317380800000000000000
+      internalID: -8975339020116011132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_179
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b749044acc273e0800000000000000
+      internalID: -2057357073924719774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 546
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360577c55cf0d6120800000000000000
+      internalID: 2408598716047380579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_181
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6a39f570bca8d0800000000000000
+      internalID: -2833696044783866226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_182
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe81985f4e862d950800000000000000
+      internalID: 6472350947066058991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 546
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd26c7250082400a0800000000000000
+      internalID: -6916359145885244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 539
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0133c6d101dd8f0800000000000000
+      internalID: -514237063894986586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_185
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c095dbbafac17a0800000000000000
+      internalID: -6405051417876689816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744e4659823e1490800000000000000
+      internalID: -7773720341355019148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_187
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9b735f137abe710800000000000000
+      internalID: 1723655115408652724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_188
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf4e074a4f705c0800000000000000
+      internalID: -4249158736294904824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_189
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1369feb840d26e0800000000000000
+      internalID: -1860826071967583787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_190
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f4f49967783e20800000000000000
+      internalID: 3330543219794834533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022f8da1f1b89db0800000000000000
+      internalID: -4784878952524078591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_192
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e02b0fd52089db0800000000000000
+      internalID: -4785072001587737067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_193
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee57b5e7c8cbdf00800000000000000
+      internalID: 1142727691346599658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_194
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a856163fe2f3cdc0800000000000000
+      internalID: -3619782566257207133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_195
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 546
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eb427f3d52c3390800000000000000
+      internalID: -7837347659216798165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_196
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c076044439b3b1e0800000000000000
+      internalID: -2183197760213847863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_197
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 543
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9091dd50c9e1860800000000000000
+      internalID: 7502605578244000226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_198
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 546
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eba9c643f6f0460800000000000000
+      internalID: 7210103799394516550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay_Rage_Top_199
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63907f49d648b50800000000000000
+      internalID: 6594516240944412388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Overlay_Rage_Top_0: 6196947135719515352
+      Overlay_Rage_Top_1: -6309020422447217918
+      Overlay_Rage_Top_10: 4015507759744475715
+      Overlay_Rage_Top_100: 1307154365747074970
+      Overlay_Rage_Top_101: -6361681518316049514
+      Overlay_Rage_Top_102: -6969999717955697427
+      Overlay_Rage_Top_103: 5232529736085339886
+      Overlay_Rage_Top_104: 5824400198960177570
+      Overlay_Rage_Top_105: -4261323743158977142
+      Overlay_Rage_Top_106: 4954555324428361183
+      Overlay_Rage_Top_107: -7096719934883679734
+      Overlay_Rage_Top_108: -5717699826746848432
+      Overlay_Rage_Top_109: 141987203280897864
+      Overlay_Rage_Top_11: -2455198142648953850
+      Overlay_Rage_Top_110: -4828721625177789771
+      Overlay_Rage_Top_111: -5246962071495511937
+      Overlay_Rage_Top_112: 5714096145127326681
+      Overlay_Rage_Top_113: 8710109096735747364
+      Overlay_Rage_Top_114: 58592003876631556
+      Overlay_Rage_Top_115: 4634672390912806537
+      Overlay_Rage_Top_116: 2416655047850548216
+      Overlay_Rage_Top_117: -995243597320754690
+      Overlay_Rage_Top_118: -682520745887977406
+      Overlay_Rage_Top_119: -7038933919386145240
+      Overlay_Rage_Top_12: -6501037745169633928
+      Overlay_Rage_Top_120: 4743077847323150453
+      Overlay_Rage_Top_121: 8144515084062416431
+      Overlay_Rage_Top_122: -2257376585520359076
+      Overlay_Rage_Top_123: -736704977737668834
+      Overlay_Rage_Top_124: 8171715945689085273
+      Overlay_Rage_Top_125: 4558730238035106925
+      Overlay_Rage_Top_126: -8516141634377294469
+      Overlay_Rage_Top_127: -8682285015404606092
+      Overlay_Rage_Top_128: -2825477219574846522
+      Overlay_Rage_Top_129: -4473187395326063109
+      Overlay_Rage_Top_13: -1730624898371128283
+      Overlay_Rage_Top_130: -1530790759693889086
+      Overlay_Rage_Top_131: -8783107043232430874
+      Overlay_Rage_Top_132: -798292437063262235
+      Overlay_Rage_Top_133: -1704087765435924693
+      Overlay_Rage_Top_134: 1307378222499257440
+      Overlay_Rage_Top_135: -4392167818389762095
+      Overlay_Rage_Top_136: -464405673832142409
+      Overlay_Rage_Top_137: 3399308780952460396
+      Overlay_Rage_Top_138: 7015588697528303817
+      Overlay_Rage_Top_139: 4386202017375899389
+      Overlay_Rage_Top_14: -5850933007622647119
+      Overlay_Rage_Top_140: 874346576533722043
+      Overlay_Rage_Top_141: -8578498933220668884
+      Overlay_Rage_Top_142: -4992521481774101114
+      Overlay_Rage_Top_143: -706416916448728124
+      Overlay_Rage_Top_144: 7182214283717130032
+      Overlay_Rage_Top_145: -8567852176931298308
+      Overlay_Rage_Top_146: -3139258781527380644
+      Overlay_Rage_Top_147: -6735831570378016762
+      Overlay_Rage_Top_148: 4458496046440057589
+      Overlay_Rage_Top_149: -7631513636297149931
+      Overlay_Rage_Top_15: 301108654429550236
+      Overlay_Rage_Top_150: 7192777900937021189
+      Overlay_Rage_Top_151: 905218646401644243
+      Overlay_Rage_Top_152: 6836192170681167784
+      Overlay_Rage_Top_153: 6802801106013475661
+      Overlay_Rage_Top_154: 4006611928990723820
+      Overlay_Rage_Top_155: 3861137055674011436
+      Overlay_Rage_Top_156: -691647554685699483
+      Overlay_Rage_Top_157: -3663828662765640917
+      Overlay_Rage_Top_158: 8032468638484334259
+      Overlay_Rage_Top_159: -2381801644206076480
+      Overlay_Rage_Top_16: 7182819277124835234
+      Overlay_Rage_Top_160: 6650218395365287514
+      Overlay_Rage_Top_161: 3212892341825299779
+      Overlay_Rage_Top_162: -4838047674232082399
+      Overlay_Rage_Top_163: -1843305343034669800
+      Overlay_Rage_Top_164: 3679730053274214636
+      Overlay_Rage_Top_165: 4323282963393302045
+      Overlay_Rage_Top_166: 4925138765730542139
+      Overlay_Rage_Top_167: 7650823656910948446
+      Overlay_Rage_Top_168: -5891866366313785825
+      Overlay_Rage_Top_169: -8778329943568732765
+      Overlay_Rage_Top_17: -30091766724815802
+      Overlay_Rage_Top_170: -599925858270071472
+      Overlay_Rage_Top_171: -3628868206994953682
+      Overlay_Rage_Top_172: -2690605631076167655
+      Overlay_Rage_Top_173: -8326395778001834744
+      Overlay_Rage_Top_174: -3636788826332097231
+      Overlay_Rage_Top_175: 3880799440039132434
+      Overlay_Rage_Top_176: 2953286836282764134
+      Overlay_Rage_Top_177: 5064301834585673408
+      Overlay_Rage_Top_178: -8975339020116011132
+      Overlay_Rage_Top_179: -2057357073924719774
+      Overlay_Rage_Top_18: 3535565782944689874
+      Overlay_Rage_Top_180: 2408598716047380579
+      Overlay_Rage_Top_181: -2833696044783866226
+      Overlay_Rage_Top_182: 6472350947066058991
+      Overlay_Rage_Top_183: -6916359145885244708
+      Overlay_Rage_Top_184: -514237063894986586
+      Overlay_Rage_Top_185: -6405051417876689816
+      Overlay_Rage_Top_186: -7773720341355019148
+      Overlay_Rage_Top_187: 1723655115408652724
+      Overlay_Rage_Top_188: -4249158736294904824
+      Overlay_Rage_Top_189: -1860826071967583787
+      Overlay_Rage_Top_19: 8825034916712761936
+      Overlay_Rage_Top_190: 3330543219794834533
+      Overlay_Rage_Top_191: -4784878952524078591
+      Overlay_Rage_Top_192: -4785072001587737067
+      Overlay_Rage_Top_193: 1142727691346599658
+      Overlay_Rage_Top_194: -3619782566257207133
+      Overlay_Rage_Top_195: -7837347659216798165
+      Overlay_Rage_Top_196: -2183197760213847863
+      Overlay_Rage_Top_197: 7502605578244000226
+      Overlay_Rage_Top_198: 7210103799394516550
+      Overlay_Rage_Top_199: 6594516240944412388
+      Overlay_Rage_Top_2: -2667716250997351195
+      Overlay_Rage_Top_20: 596565354455747258
+      Overlay_Rage_Top_21: 7729944130836844619
+      Overlay_Rage_Top_22: -6606147259763113247
+      Overlay_Rage_Top_23: 1815898585961879783
+      Overlay_Rage_Top_24: 1605935093381791853
+      Overlay_Rage_Top_25: 2759916385045273024
+      Overlay_Rage_Top_26: -3706521242651905613
+      Overlay_Rage_Top_27: 4648763324591465550
+      Overlay_Rage_Top_28: 8960179340284936058
+      Overlay_Rage_Top_29: 2843870222370487611
+      Overlay_Rage_Top_3: 6028514527058358816
+      Overlay_Rage_Top_30: -6976186546745341160
+      Overlay_Rage_Top_31: 5718791843193589610
+      Overlay_Rage_Top_32: -8214013460874563297
+      Overlay_Rage_Top_33: 4122359531010727189
+      Overlay_Rage_Top_34: -7695119353766764825
+      Overlay_Rage_Top_35: 5812927251622479059
+      Overlay_Rage_Top_36: 4120241779539219319
+      Overlay_Rage_Top_37: -5732259496945326984
+      Overlay_Rage_Top_38: -8738789878773958520
+      Overlay_Rage_Top_39: 1701935779672698008
+      Overlay_Rage_Top_4: 3372840034643565757
+      Overlay_Rage_Top_40: 4963419917591551642
+      Overlay_Rage_Top_41: -6439837689858723061
+      Overlay_Rage_Top_42: -4342409589894599595
+      Overlay_Rage_Top_43: -31630400827641715
+      Overlay_Rage_Top_44: -8316702641734149051
+      Overlay_Rage_Top_45: -2607137527216266748
+      Overlay_Rage_Top_46: 4479690107116258472
+      Overlay_Rage_Top_47: -8640028746692851732
+      Overlay_Rage_Top_48: 4464947056565966174
+      Overlay_Rage_Top_49: 7256552548977982064
+      Overlay_Rage_Top_5: 127835391192668997
+      Overlay_Rage_Top_50: 6800394064471905683
+      Overlay_Rage_Top_51: -5403173625002562235
+      Overlay_Rage_Top_52: -5040465924175936563
+      Overlay_Rage_Top_53: -395425076273848927
+      Overlay_Rage_Top_54: -2671116661898496161
+      Overlay_Rage_Top_55: -1278656707126485386
+      Overlay_Rage_Top_56: -6686966413146888377
+      Overlay_Rage_Top_57: -8577029590599462813
+      Overlay_Rage_Top_58: -8485668128144135427
+      Overlay_Rage_Top_59: -2257101782324896180
+      Overlay_Rage_Top_6: -8191500908387196188
+      Overlay_Rage_Top_60: -2503820807216895886
+      Overlay_Rage_Top_61: 3891159634865860334
+      Overlay_Rage_Top_62: 1013556770051862837
+      Overlay_Rage_Top_63: -1599256234148122964
+      Overlay_Rage_Top_64: -1916608933135583636
+      Overlay_Rage_Top_65: 4803414542721132874
+      Overlay_Rage_Top_66: 3853020727077562412
+      Overlay_Rage_Top_67: -5489427028793607123
+      Overlay_Rage_Top_68: -531946136131765437
+      Overlay_Rage_Top_69: -3415036505422455749
+      Overlay_Rage_Top_7: 2693010905492494703
+      Overlay_Rage_Top_70: -2837709079371016337
+      Overlay_Rage_Top_71: -6574928249881377897
+      Overlay_Rage_Top_72: -9057170545016590269
+      Overlay_Rage_Top_73: -1873040195717917277
+      Overlay_Rage_Top_74: -7188500704539939066
+      Overlay_Rage_Top_75: -2351435312851663728
+      Overlay_Rage_Top_76: 5480308076365556381
+      Overlay_Rage_Top_77: 7441732342392844138
+      Overlay_Rage_Top_78: 1299780152298898994
+      Overlay_Rage_Top_79: -6143724547969616383
+      Overlay_Rage_Top_8: -1487677602475209958
+      Overlay_Rage_Top_80: -4967379817453827805
+      Overlay_Rage_Top_81: -3455332384338542879
+      Overlay_Rage_Top_82: -7655486223055336822
+      Overlay_Rage_Top_83: 2453651888550389154
+      Overlay_Rage_Top_84: 8573319160355465271
+      Overlay_Rage_Top_85: -3231916506223840213
+      Overlay_Rage_Top_86: -1782840280483039167
+      Overlay_Rage_Top_87: 1194117297070616141
+      Overlay_Rage_Top_88: -3409286875454790365
+      Overlay_Rage_Top_89: 4794181901952810953
+      Overlay_Rage_Top_9: -6981407537533015610
+      Overlay_Rage_Top_90: -1516206951379912435
+      Overlay_Rage_Top_91: -1575253890737378282
+      Overlay_Rage_Top_92: 1576014240621059978
+      Overlay_Rage_Top_93: -4700611468511725216
+      Overlay_Rage_Top_94: 6653547585547270237
+      Overlay_Rage_Top_95: -7543514380794895394
+      Overlay_Rage_Top_96: -3814397164117157192
+      Overlay_Rage_Top_97: 5820156589101430122
+      Overlay_Rage_Top_98: -792343444259556291
+      Overlay_Rage_Top_99: -4607466103717159745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
